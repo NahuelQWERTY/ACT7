@@ -1,0 +1,14 @@
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\act7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\act7.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\act7.AssemblyInfo.cs
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\act7.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act7\bin\Debug\net10.0\act7.exe
+C:\Users\Nahuel\Documents\Escuela\POO\act7\bin\Debug\net10.0\act7.deps.json
+C:\Users\Nahuel\Documents\Escuela\POO\act7\bin\Debug\net10.0\act7.runtimeconfig.json
+C:\Users\Nahuel\Documents\Escuela\POO\act7\bin\Debug\net10.0\act7.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act7\bin\Debug\net10.0\act7.pdb
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\act7.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\refint\act7.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\act7.pdb
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\act7.genruntimeconfig.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act7\obj\Debug\net10.0\ref\act7.dll
